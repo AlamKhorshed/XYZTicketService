@@ -1,0 +1,1 @@
+"%JAVA_HOME%\bin\java.exe" -jar target/XYZTicketService-0.0.1-SNAPSHOT-jar-with-dependencies.jar
